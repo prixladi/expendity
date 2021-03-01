@@ -1,6 +1,6 @@
 # Expendity
 
-Expense tracking aplication with user pemission, invites and statistics.
+Expense tracking application with user pemissions, invites and statistics.
 
 ## Application Parts
 
