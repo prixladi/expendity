@@ -1,0 +1,7 @@
+fragment projectInvitePreviewFields on ProjectInvitePreviewType {
+  id
+  projectDescription
+  projectId
+  projectName
+  projectPermissionType
+}
