@@ -9,7 +9,6 @@ Expense tracking application with user permissions, invites and statistics.
 
 ## External
 
-- [Authority](https://github.com/prixladi/shamyr-cloud-authority) - identity provider
 - [PostgreSQL](https://www.postgresql.org/) - main database
 
 ## Application images
